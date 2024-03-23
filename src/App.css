@@ -1,0 +1,23 @@
+html{
+  background: linear-gradient(to bottom, #dc1d1d, #e2736b00);
+  height: 100vh;
+  width: 100%; 
+
+}
+
+h1{
+  font-Size: 36px;
+  text-align:center;
+}
+
+p{
+  font-size: 20px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.heart{
+  text-align: center;
+  display: block;
+  font-size:100px;
+}
