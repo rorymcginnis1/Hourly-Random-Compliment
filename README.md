@@ -10,7 +10,7 @@ Uses a randomized compliment API.
 
 ## Tools and Frameworks
 
-()
+(HTML, JS, CSS, Third Party APIs)
 
 Link to the website [Randomize Compliment Website](https://rorymcginnis1.github.io/Hourly-Random-Compliment/)
 
