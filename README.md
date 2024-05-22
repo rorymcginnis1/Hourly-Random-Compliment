@@ -14,7 +14,7 @@ Uses a randomized compliment API.
 
 Link to the website [Randomize Compliment Website](https://rorymcginnis1.github.io/Hourly-Random-Compliment/)
 
-
+## Simple Demo
 
 
 https://github.com/rorymcginnis1/Hourly-Random-Compliment/assets/121205078/4deae554-74eb-4001-b01a-04b38275df83
